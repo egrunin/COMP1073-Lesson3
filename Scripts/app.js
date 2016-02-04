@@ -14,7 +14,7 @@ var isHungry = true;
 var usernames = [];
 
 // initialize the array with values
-var usernames = ["Mike", "Rich", "Anju", "Margot"];
+usernames = ["Mike", "Rich", "Anju", "Margot"];
 console.log("Before the push: " + usernames);
 
 // add an element to the bottom of array
